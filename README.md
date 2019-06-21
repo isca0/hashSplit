@@ -1,0 +1,2 @@
+# hashSplit
+Simple Hash Spliter
