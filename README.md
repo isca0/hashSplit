@@ -40,6 +40,13 @@ This script has two commands:
 
   will clean all the qrcodes and the dm file created.
 
+### Environments
+
+You can change the `$blk`(block) variable to increase or decrease the quantite of characters will
+be used to split in qrcodes. Keep in mind the max size of a qrcode is 2549 bytes and if you decide
+to create a huge qrcode it could be very painful to be scaned or printed.
+So I recommend use 500 or less.
+
 
   Enjoy!
   By: Isca
