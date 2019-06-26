@@ -13,7 +13,7 @@ png qrcode files.
 
 ### How to use:
 
-This script has two commands:
+This script can receive two arguments:
 
   * build
   _Receives two arguments input and output to generate the qrcode files._
